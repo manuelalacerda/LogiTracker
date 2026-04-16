@@ -156,7 +156,7 @@ O projeto segue o padrão **Clean Architecture**:
 ### Endpoints disponíveis:
 
 * `GET /health` → verifica se a API está online
-* `GET /aoi/cargo` → verifica os cargos disponiveis 
+* `GET /api/cargo` → verifica os cargos disponiveis 
 ---
 
 ## 📁 Evidências
@@ -166,6 +166,12 @@ A pasta `/docs` contém:
 * Print do banco de dados gerado
 * Estrutura das tabelas
 * Modelo MER atualizado
+
+---
+
+## 📁 Estrutura de pastas
+
+![Pasta ](./docs/um-banco.png)
 
 ---
 
