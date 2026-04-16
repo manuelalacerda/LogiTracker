@@ -54,7 +54,7 @@ O modelo foi implementado em C# seguindo princípios de encapsulamento e separa�
 
 ## Modelo de Entidade-Relacionamento
 
-![Diagrama MER do Projeto](//docs/CP2-MER.pn)
+![Diagrama MER do Projeto](./docs/CP1-MER.png)
 
 📌 O modelo foi implementado fielmente no **Entity Framework Core**, incluindo:
 
@@ -69,6 +69,8 @@ O modelo foi implementado em C# seguindo princípios de encapsulamento e separa�
 
 * **SGBD utilizado:** Oracle
 * Configuração via **Entity Framework Core Provider para Oracle**
+
+ ![Banco de dados](./docs/um-banco.png), ![Banco de dados](./docs/dois-banco.png), ![Banco de dados](./docs/tres-banco.png)
 
 ### 📌 Justificativa
 
